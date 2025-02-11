@@ -16,10 +16,10 @@
 @media(min-width:1000px){
     .cat-img{font-size:40px;
         -webkit-text-stroke-width:1.5px}}
-    .p{background-image:url(..img/handup.png)}
-    .op{background-image:url(..img/handdown.png)}
-    .p.bot{background-image:url(..img/botup.png)}
-    .op.bot{background-image:url(..img/botdown.png)}
+    .p{background-image:url(https://lkro13.github.io/clicksomegrass/img/handup.png)}
+    .op{background-image:url(https://lkro13.github.io/clicksomegrass/img/handdown.png)}
+    .p.bot{background-image:url(https://lkro13.github.io/clicksomegrass/img/botup.png)}
+    .op.bot{background-image:url(https://lkro13.github.io/clicksomegrass/img/botdown.png)}
     .pop-out-leave{display:none}
     .pop-out-enter-active{transition:transform 80ms ease-in-out}
     .pop-out-enter.rot-ll{transform:scale(1.2) rotate(-10deg)}
